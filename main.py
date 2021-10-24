@@ -53,7 +53,7 @@ locations = ["Paris", 'London', 'Rome', 'Budapest', 'Los Angeles',
              'Australia', 'Philippines', 'Lisbon', 'Moscow', 'Bucharest',
              'Belgrade', 'Turkey', 'Dubai', 'Warsaw', 'Seychelles',
              'Madrid', 'Barcelona', 'Switzerland', 'Zanzibar', 'Milano', 'Venice',
-             'Las Vegas', 'San Diego', 'San Fransisco', 'Vancouver', 'India', 'Monte Carlo',
+             'Las Vegas', 'San Diego', 'San Francisco', 'Vancouver', 'India', 'Monte Carlo',
              'Kyiv']
 
 ## 60 locations
@@ -177,7 +177,7 @@ my_stroop.run_stroop_training(training_examples)
 
 real_words = ['Hello', 'World', 'Math', 'Calculate', 'Window', 'Chair', 'Table', 'Flight', 'Plane', 'Piano', 'Pillow', 'Remote',
          'Dog', 'Silk', 'Cat', 'Closet', 'Pants', 'Board', 'Bottle', 'Wallet', 'Phone', 'Car', 'Bench', 'Kitchen', 'Python',
-         'Screen', 'Movie', 'Picture', 'Wall', 'Clock', 'Desk', 'Notes', 'Calender', 'Computer', 'Pencil', 'Student',
+         'Screen', 'Movie', 'Picture', 'Wall', 'Clock', 'Desk', 'Notes', 'Calendar', 'Computer', 'Pencil', 'Student',
          'Mirror', 'Inside', 'Friend', 'Mask', 'Mail', 'Find', 'Podcast', 'Seven', 'Eleven', 'Strength', 'Learn', 'Begin', 'Trust', 'Young',
               'Ten', 'Bold', 'Paper', 'Shirt', 'Orange', 'Pen', 'Program', 'Erase', 'Guitar', 'Within']
 
